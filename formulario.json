@@ -1,0 +1,34 @@
+{
+  "receitas": [
+    [
+      {
+        "type": "text",
+        "label": "Nome_Receitas",
+        "name": "receita",
+        "placeholder": "Digite o nome da receita:"
+      },
+      {
+        "type": "text",
+        "label": "Ingredientes",
+        "name": "ingrediente",
+        "placeholder": "Ingredientes da receita:"
+      },
+      {
+        "type": "text",
+        "label": "Modo_de_Preparo",
+        "name": "modo_preparo",
+        "placeholder": "Modo de preparo:"
+      },
+      {
+        "type": "image",
+        "label": "Imagem_Receita",
+        "name": "imagem",
+        "placeholder": "Adicionar uma imagem:"
+      },
+      {
+        "type": "submit",
+        "label": "Enviar"
+      }
+    ]
+  ]
+}
